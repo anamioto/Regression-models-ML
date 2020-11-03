@@ -1,4 +1,4 @@
-# Projetos Aprendizagem de Máquina
+# Projetos de Aprendizagem de Máquina
 
 Projeto 2 da disciplina PMR3508 - USP.
 
